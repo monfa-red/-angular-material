@@ -7,7 +7,7 @@
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/material2.git"
+    "url": "https://github.com/monfa-red/angular-material.git"
   },
   "keywords": [
     "angular",
@@ -15,11 +15,7 @@
     "material design",
     "components"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/angular/material2/issues"
-  },
-  "homepage": "https://github.com/angular/material2#readme",
+  "license": "MIT"
   "peerDependencies": {
     "@angular/core": "^2.2.0",
     "@angular/common": "^2.2.0",
