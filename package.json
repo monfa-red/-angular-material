@@ -1,3 +1,34 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@angular/material@2.0.0-alpha.10",
+        "scope": "@angular",
+        "escapedName": "@angular%2fmaterial",
+        "name": "@angular/material",
+        "rawSpec": "2.0.0-alpha.10",
+        "spec": "2.0.0-alpha.10",
+        "type": "version"
+      },
+      "/home/abbas/workspace/fsgWeb/app"
+    ]
+  ],
+  "_from": "@angular/material@2.0.0-alpha.10",
+  "_id": "@angular/material@2.0.0-alpha.10",
+  "_inCache": true,
+  "_location": "/@angular/material",
+  "_nodeVersion": "6.9.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/material-2.0.0-alpha.10.tgz_1478744955872_0.49003721331246197"
+  },
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "_npmVersion": "3.10.7",
+  "_phantomChildren": {},
+  "_requested": {
     "raw": "@angular/material@2.0.0-alpha.10",
     "scope": "@angular",
     "escapedName": "@angular%2fmaterial",
