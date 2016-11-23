@@ -2,7 +2,7 @@
   "_args": [
     [
       {
-        "raw": "@angular/material@2.0.0-alpha.10",
+        "raw": "@angular/material@2.0.0-alpha.10-1",
         "scope": "@angular",
         "escapedName": "@angular%2fmaterial",
         "name": "@angular/material",
@@ -13,8 +13,8 @@
       "/home/abbas/workspace/fsgWeb/app"
     ]
   ],
-  "_from": "@angular/material@2.0.0-alpha.10",
-  "_id": "@angular/material@2.0.0-alpha.10",
+  "_from": "@angular/material@2.0.0-alpha.10-1",
+  "_id": "@angular/material@2.0.0-alpha.10-1",
   "_inCache": true,
   "_location": "/@angular/material",
   "_nodeVersion": "6.9.0",
@@ -29,7 +29,7 @@
   "_npmVersion": "3.10.7",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "@angular/material@2.0.0-alpha.10",
+    "raw": "@angular/material@2.0.0-alpha.10-1",
     "scope": "@angular",
     "escapedName": "@angular%2fmaterial",
     "name": "@angular/material",
@@ -43,7 +43,7 @@
   "_resolved": "https://registry.npmjs.org/@angular/material/-/material-2.0.0-alpha.10.tgz",
   "_shasum": "c9f28b52aa9d0f71670e6ce163e22052ef63fcc2",
   "_shrinkwrap": null,
-  "_spec": "@angular/material@2.0.0-alpha.10",
+  "_spec": "@angular/material@2.0.0-alpha.10-1",
   "_where": "/home/abbas/workspace/fsgWeb/app",
   "bugs": {
     "url": "https://github.com/angular/material2/issues"
