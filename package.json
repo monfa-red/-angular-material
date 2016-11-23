@@ -15,7 +15,7 @@
     "material design",
     "components"
   ],
-  "license": "MIT"
+  "license": "MIT",
   "peerDependencies": {
     "@angular/core": "^2.2.0",
     "@angular/common": "^2.2.0",
