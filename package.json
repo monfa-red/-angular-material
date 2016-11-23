@@ -1,64 +1,14 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "@angular/material@2.0.0-alpha.10-1",
-        "scope": "@angular",
-        "escapedName": "@angular%2fmaterial",
-        "name": "@angular/material",
-        "rawSpec": "2.0.0-alpha.10",
-        "spec": "2.0.0-alpha.10",
-        "type": "version"
-      },
-      "/home/abbas/workspace/fsgWeb/app"
-    ]
-  ],
-  "_from": "@angular/material@2.0.0-alpha.10-1",
-  "_id": "@angular/material@2.0.0-alpha.10-1",
-  "_inCache": true,
-  "_location": "/@angular/material",
-  "_nodeVersion": "6.9.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/material-2.0.0-alpha.10.tgz_1478744955872_0.49003721331246197"
-  },
-  "_npmUser": {
-    "name": "angular",
-    "email": "angular-core+npm@google.com"
-  },
-  "_npmVersion": "3.10.7",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "@angular/material@2.0.0-alpha.10-1",
-    "scope": "@angular",
-    "escapedName": "@angular%2fmaterial",
-    "name": "@angular/material",
-    "rawSpec": "2.0.0-alpha.10",
-    "spec": "2.0.0-alpha.10",
-    "type": "version"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@angular/material/-/material-2.0.0-alpha.10.tgz",
-  "_shasum": "c9f28b52aa9d0f71670e6ce163e22052ef63fcc2",
-  "_shrinkwrap": null,
-  "_spec": "@angular/material@2.0.0-alpha.10-1",
-  "_where": "/home/abbas/workspace/fsgWeb/app",
-  "bugs": {
-    "url": "https://github.com/angular/material2/issues"
-  },
-  "dependencies": {
-    "@types/hammerjs": "^2.0.30"
-  },
+  "name": "@angular/material",
+  "version": "2.0.0-alpha.10",
   "description": "Angular 2 Material",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "c9f28b52aa9d0f71670e6ce163e22052ef63fcc2",
-    "tarball": "https://registry.npmjs.org/@angular/material/-/material-2.0.0-alpha.10.tgz"
+  "main": "./material.umd.js",
+  "module": "./index.js",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/material2.git"
   },
-  "homepage": "https://github.com/angular/material2#readme",
   "keywords": [
     "angular",
     "material",
@@ -66,27 +16,16 @@
     "components"
   ],
   "license": "MIT",
-  "main": "./material.umd.js",
-  "maintainers": [
-    {
-      "name": "angular",
-      "email": "angular-core+npm@google.com"
-    }
-  ],
-  "module": "./index.js",
-  "name": "@angular/material",
-  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/angular/material2/issues"
+  },
+  "homepage": "https://github.com/angular/material2#readme",
   "peerDependencies": {
-    "@angular/core": "^2.0.0",
-    "@angular/common": "^2.0.0",
-    "@angular/http": "^2.0.0"
+    "@angular/core": "^2.2.0",
+    "@angular/common": "^2.2.0",
+    "@angular/http": "^2.2.0"
   },
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/angular/material2.git"
-  },
-  "scripts": {},
-  "typings": "./index.d.ts",
-  "version": "2.0.0-alpha.10"
+  "dependencies": {
+    "@types/hammerjs": "^2.0.30"
+  }
 }
